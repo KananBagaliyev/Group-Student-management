@@ -1,0 +1,6 @@
+C:\Users\Kanan\Desktop\task\task\bin\Debug\task.exe.config
+C:\Users\Kanan\Desktop\task\task\bin\Debug\task.exe
+C:\Users\Kanan\Desktop\task\task\bin\Debug\task.pdb
+C:\Users\Kanan\Desktop\task\task\obj\Debug\task.csprojAssemblyReference.cache
+C:\Users\Kanan\Desktop\task\task\obj\Debug\task.exe
+C:\Users\Kanan\Desktop\task\task\obj\Debug\task.pdb
